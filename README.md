@@ -10,8 +10,11 @@ Nice content for learning/practicing by topic
 
 ## BDD
 
+- newsletter: [BDD addict](https://www.specsolutions.eu/news/bddaddict/)
 - ​​bo​ok​​: [BDD in Action](https://www.manning.com/books/bdd-in-action)
 - ​​bo​ok​​: [Specification by Example​](https://gojko.net/books/specification-by-example/)
+- book: [The BDD books - Discovery](https://leanpub.com/bddbooks-discovery)
+- book: [The BDD books - Formulation](https://leanpub.com/bddbooks-formulation)
 - article: [​Behavior Driven Development (BDD) and Functional Testing​](https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2)
 - video: [​Example mapping](https://www.youtube.com/watch?v=OhDUlzpbeoc)
 
